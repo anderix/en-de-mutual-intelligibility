@@ -11,6 +11,16 @@ The single most cited pseudo-anglicism. *Handy* in English is an adjective meani
 *Mein Handy ist leider zu Hause geblieben.* (My **cell phone** unfortunately stayed at home.)
 For "handy" in the English sense, German uses *praktisch* or *nützlich*.
 
+## Entries from A2
+
+**Homepage ↔ "website main page / website"** *(A2, die Homepage)*
+In German, *die Homepage* often refers to an entire website, not just its landing page as in English. Usage is gradually aligning with English but the broader sense remains common.
+*Auf unserer Homepage finden Sie alle Informationen.* (On our **website** you'll find all the information.)
+
+**Service ↔ "customer service / servicing"** *(A2, der Service)*
+Mostly used like English *service* in hospitality and commerce, but German *der Service* also extends to car servicing and phone support in ways that English sometimes splits across different terms.
+*Der Service im Restaurant war ausgezeichnet.*
+
 ## Pairs to expect at higher levels
 
 The famous pseudo-anglicism set comes online at A2 and B1:

@@ -106,7 +106,15 @@ https://wortschatz.uni-leipzig.de/
 
 ## Status
 
-A1 mining complete. ~650 source words walked, distributed into pattern files. A2 next. B1 after. See git history for changes over time.
+A1 and A2 mining complete. ~1,300 source words walked cumulatively, distributed into pattern files. B1 next. See git history and tags for milestones.
+
+### Growth observations through A2
+
+- The **Latin/Greek loan layer** and **English-to-German loans (Denglisch)** are the biggest growth vectors between A1 and A2. Scholarly and modern/technical vocabulary dominates.
+- The ***-isch/-ic*** suffix pattern starts expanding at A2 (*fantastisch, praktisch, typisch, romantisch, komisch*) and will explode at B1 per Madrigal's observation.
+- The ***-ität/-ity*** micro-pattern appears with *Qualität* and *Universität*, foreshadowing a rich B1 vein.
+- **False friends multiply**: *aktuell, eventuell, sympathisch, komisch, fast* are all A2 traps. Especially *fast* — "almost," not "fast."
+- **Function-word modifiers** (*besonders, eigentlich, plötzlich, wahrscheinlich, unbedingt*) appear at A2 and give German its nuance layer.
 
 ## License
 

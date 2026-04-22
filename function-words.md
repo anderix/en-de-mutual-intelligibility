@@ -256,8 +256,96 @@ Cognate via PGmc *naht-* (related to English *naught*).
 **nothing ↔ nichts** *(A1)*
 *Heute habe ich nichts gegessen.*
 
+## A2 additions
+
+**except / outside ↔ außer** *(A2, preposition)*
+Cognate with *aus* (out) plus *-er*. The structure "out-er" maps directly to English "outer" though the meaning shifted to "except."
+*Alle sind da außer Anna.*
+
+**besides ↔ außerdem** *(A2, adverb)*
+*Außer + dem* — "besides that."
+*Ich habe Hunger. Außerdem bin ich sehr müde.*
+
+**especially ↔ besonders** *(A2, adverb)*
+Cognate with English "besides" via different route; the *-s* ending makes it adverbial.
+*Heute ist es besonders warm.*
+
+**back then ↔ damals** *(A2, adverb)*
+No direct English cognate; literally "that-time-back."
+*Damals war ich noch ein Kind.*
+
+**therefore ↔ deshalb** *(A2, adverb)*
+*Des + halb* — literally "because-of-this-half," meaning "because of this / therefore."
+*Es regnet. Deshalb bleiben wir zu Hause.*
+
+**direct / directly ↔ direkt** *(A2)*
+Latin loan shared by both languages; also in loans-latin-greek-shared.md.
+*Das Hotel liegt direkt am Strand.*
+
+**actually / properly ↔ eigentlich** *(A2, adverb)*
+*Eigen* (own) + *-lich*; "own-ly," meaning "really / properly." No clean English cognate.
+*Eigentlich wollte ich heute nicht arbeiten.*
+
+**almost / nearly ↔ fast** *(A2, adverb)* — FALSE FRIEND
+See warning-false-friends.md. *Fast* looks like English "fast" but means "almost."
+*Ich bin fast fertig.*
+
+**whole / quite ↔ ganz** *(A2)*
+*Ganz neu* = "completely new." The word has no clean English cognate; one of the many function words that are just pure German.
+*Das ist eine ganz andere Frage.*
+
+**hardly / barely ↔ kaum** *(A2)*
+No direct cognate.
+*Ich habe kaum Zeit heute.*
+
+**at least ↔ mindestens** *(A2)*
+*Mindest-* relates to "minimum" via Latin; *-ens* makes it adverbial.
+*Das Buch hat mindestens vierhundert Seiten.*
+
+**next door ↔ nebenan** *(A2, adverb)*
+*Neben* (next to) + *an* (on/at).
+*Meine Schwester wohnt nebenan.*
+
+**nobody ↔ niemand** *(A2)*
+*Nie* (never) + *mand* (from *Mann*). Literally "never-man," parallel to English "no-body."
+*Hier ist niemand.*
+
+**suddenly ↔ plötzlich** *(A2, adverb)*
+No clean English cognate. Also fits suffix-lich.md.
+*Plötzlich fing es an zu regnen.*
+
+**even ↔ sogar** *(A2, intensifier)*
+*So + gar* — "so + completely."
+*Er hat sogar am Wochenende gearbeitet.*
+
+**otherwise / else ↔ sonst** *(A2)*
+Cognate with English archaic *sans* via different path. No clean modern match.
+*Wir müssen uns beeilen, sonst kommen wir zu spät.*
+
+**everywhere ↔ überall** *(A2)*
+*Über* (over) + *all* (all) — direct morphological match for English "over-all" in the sense of "in every place." English "overall" took a different semantic path; "everywhere" is the functional equivalent.
+*Ich habe überall gesucht, aber ich finde es nicht.*
+
+**absolutely / definitely ↔ unbedingt** *(A2, adverb)*
+*Un-* (not) + *bedingt* (conditionally) — "unconditionally."
+*Du musst unbedingt diesen Film sehen.*
+
+**past / over ↔ vorbei** *(A2, adverb)*
+*Vor* (before/fore) + *bei* (by).
+*Die Ferien sind leider schon vorbei.*
+
+**probably ↔ wahrscheinlich** *(A2, adverb)*
+Compound: *wahr* (true, cognate with English "very" via Latin *verus* — different root actually; German *wahr* is Germanic) + *scheinen* (to appear, cognate with "shine") + *-lich*. Literally "truth-appearingly." No direct English cognate but the components are cognates.
+*Wahrscheinlich regnet es morgen.*
+
+**which ↔ welch-** *(A2)*
+*Welcher / welche / welches*. Cognate with English *which* via wh-/w- and ch-/-ich correspondence. Irregular on the consonant side but kinship visible.
+*Welches Buch möchtest du lesen?*
+
 ## Note
 
 The function-word layer of German is essentially Germanic-cognate to English, with predictable sound shifts (th → d, w → v in pronunciation, k → ch in some forms) and a few irregulars. Once a learner has mapped these correspondences, the structural reading of German sentences becomes nearly automatic — even before content vocabulary is in place.
+
+At A2, the new function words are mostly adverbs and modifiers (*besonders, eigentlich, plötzlich, wahrscheinlich, unbedingt*) that add nuance and hedging to statements. These are harder to map one-to-one across languages because they carry register and emphasis, not just logical structure. Worth learning them as idiomatic units.
 
 This is the pattern that makes German *feel* close to English at the structural level, even when individual content words look different.

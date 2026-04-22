@@ -65,6 +65,33 @@ Two meanings: **bank** (financial) AND **bench** (the seating kind). Context dis
 **Handy** *(A1, das Handy)* — see warning-pseudo-anglicisms.md for full treatment
 Means **cell phone** in German. NOT English "handy" (useful).
 
+## Entries from A2
+
+**aktuell** *(A2, adjective)*
+Means **current, up-to-date** in German. NOT English "actual" (which is *tatsächlich* in German).
+*Haben Sie die aktuelle Zeitung?* (Do you have the **current** newspaper?)
+
+**eventuell** *(A2, adverb)*
+Means **possibly, maybe** in German. NOT English "eventually" (which is *schließlich* in German).
+*Eventuell komme ich später.* (I **might** come later.)
+
+**sympathisch** *(A2, adjective)*
+Means **likeable, agreeable** in German. NOT English "sympathetic" (which is *mitfühlend* in German).
+*Der neue Kollege ist sehr sympathisch.* (The new colleague is very **likeable**.)
+
+**komisch** *(A2, adjective)* — partial false friend
+Means **funny** OR **strange/odd** in German. NOT English "comic" in the narrow sense. Context disambiguates.
+*Das Essen schmeckt komisch.* (The food tastes **strange**.)
+*Der Film war wirklich komisch.* (The film was really **funny**.)
+
+**fast** *(A2, adverb)* — major false friend
+Means **almost, nearly** in German. NOT English "fast" (which is *schnell* in German).
+*Ich bin fast fertig.* (I'm **almost** finished.)
+This is one of the most common traps for English speakers. A German speaker saying *"Ich bin fast fertig"* is saying "I'm almost done," not "I'm ready fast."
+
+**genial** *(not yet in A2 scope but common)*
+Means **brilliant, ingenious** in German. NOT English "genial" (which is *freundlich* in German).
+
 ## The reverse direction
 
 A few German words also create traps when English speakers learn the equivalent — *Gift* (German for "poison") looks like English "gift" but isn't; the German for "gift" is *Geschenk* (which is in A1).
