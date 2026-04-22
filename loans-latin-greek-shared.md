@@ -4,6 +4,19 @@ The largest single source of mutual intelligibility above basic vocabulary. Both
 
 This file already shows substantial yield at A1 and will explode at higher levels. The Madrigal book builds entire chapters on this category.
 
+## Common transformations to watch for
+
+When both languages borrowed the same Latin or Greek word, a handful of predictable spelling differences show up. These aren't rules to memorize — after a few exposures your brain does the mapping automatically.
+
+- **English *-y* → German *-ie*** (feminine nouns): biology/*Biologie*, harmony/*Harmonie*, philosophy/*Philosophie*, theory/*Theorie*, therapy/*Therapie*, geography/*Geographie*, comedy/*Komödie*.
+- **English *-ure* → German *-ur*** (feminine): culture/*Kultur*, temperature/*Temperatur*, structure/*Struktur*, nature/*Natur*, literature/*Literatur*, architecture/*Architektur*.
+- **English *-ence* / *-ance* → German *-enz* / *-anz*** (feminine): conference/*Konferenz*, difference/*Differenz*, tendency/*Tendenz*, distance/*Distanz*, substance/*Substanz*, elegance/*Eleganz*.
+- **English *-ive* → German *-iv*** (adjective): active/*aktiv*, creative/*kreativ*, intensive/*intensiv*, positive/*positiv*, negative/*negativ*, effective/*effektiv*.
+- **English *ct* → German *kt***: contact/*Kontakt*, product/*Produkt*, aspect/*Aspekt*, project/*Projekt*, object/*Objekt*, effect/*Effekt*, direct/*direkt*, perfect/*perfekt*.
+- **English Latin-root verbs (*-ate*, *-ize*, bare forms) → German *-ieren* verbs**: to organize → *organisieren*, to tolerate → *tolerieren*, to study → *studieren*, to serve → *servieren*, to analyze → *analysieren*, to react → *reagieren*.
+
+These are observations. They work across CEFR levels: at A1 you already meet *studieren, reparieren, Kultur, Natur*; at B1 you meet *Differenz, Konferenz, präsentieren, produzieren, Architektur, Theorie*. The transformations stay consistent the whole way.
+
 ## Pairs
 
 ### Direct loans, identical or near-identical
