@@ -41,9 +41,43 @@ No clean English cognate. Literally "the timing-thing" — the publication that 
 **leadership / guided tour ↔ die Führung** *(A1, derived from führen)*
 *Die Führung dauert etwa eine Stunde.*
 
+**exhibition ↔ die Ausstellung** *(A2, from ausstellen)*
+*Die Ausstellung läuft noch bis zum Ende des Monats.*
+
+**application ↔ die Bewerbung** *(A2, from bewerben)*
+*Meine Bewerbung für die Stelle ist schon verschickt.*
+
+**apology ↔ die Entschuldigung** *(A2, from entschuldigen)*
+*Vielen Dank für deine Entschuldigung.*
+
+**experience ↔ die Erfahrung** *(A2, from erfahren)*
+*Sie hat viel Erfahrung in ihrem Beruf.*
+
+**heating ↔ die Heizung** *(A2, from heizen)*
+*Die Heizung funktioniert heute leider nicht.*
+
+**opinion ↔ die Meinung** *(A2, from meinen)*
+Maps to English *opinion* rather than to a direct *-ation* cognate.
+*Was ist deine Meinung zu diesem Film?*
+
+**cleaning / dry cleaner's ↔ die Reinigung** *(A2, from reinigen)*
+*Ich bringe den Mantel in die Reinigung.*
+
+**broadcast / program ↔ die Sendung** *(A2, from senden)*
+*Meine Lieblingssendung beginnt gleich.*
+
+**translation ↔ die Übersetzung** *(A2, from übersetzen)*
+*Die deutsche Übersetzung ist sehr gut.*
+
+**event / performance ↔ die Veranstaltung** *(A2, from veranstalten)*
+*Die Veranstaltung findet am Samstagabend statt.*
+
+**delay ↔ die Verspätung** *(A2, from sich verspäten)*
+*Unser Zug hat heute keine Verspätung.*
+
 ## Pairs to expect at higher levels
 
-*Bedeutung* (meaning), *Erfahrung* (experience), *Hoffnung* (hope), *Meinung* (opinion), *Übung* (exercise/practice), *Vorstellung* (introduction/performance), *Erklärung* (explanation, → *explanation*), *Entscheidung* (decision, → *decision*), *Empfehlung* (recommendation), *Versammlung* (assembly).
+*Bedeutung* (meaning), *Hoffnung* (hope), *Übung* (exercise/practice), *Vorstellung* (introduction/performance), *Erklärung* (explanation, → *explanation*), *Entscheidung* (decision, → *decision*), *Empfehlung* (recommendation), *Versammlung* (assembly).
 
 ## Note
 

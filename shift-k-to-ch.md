@@ -25,9 +25,17 @@ Final *k* in English → *ch* in German. Modern English uses *seek* less than *s
 English *gh* in *laugh* was historically /x/, the same sound German still spells *ch*. So *lachen / laugh* are the same etymological word with English having silently mutated /x/ → /f/. See also shift-gh-to-ch.md.
 *Das Baby lacht sehr oft.*
 
+**bridge ↔ die Brücke** *(A2)*
+Medial *k* → *ch* (spelled *ck* in some forms); the English *-dge* is from Old English *-cg*, which in German became *-ck/ch*.
+*Wir fahren über die Brücke zum Bahnhof.*
+
+**week ↔ die Woche** *(A2)*
+Medial *k* → *ch*.
+*Nächste Woche fahren wir in Urlaub.*
+
 ## Pairs to expect at higher levels
 
-*break → brechen*, *speak → sprechen* (already partial in A1: *sprechen*), *week → Woche*, *rich → reich*, *teach → zeigen* (irregular), *wake → wachen*, *I → ich* (high-frequency irregular), *not → nicht* (high-frequency irregular).
+*break → brechen*, *speak → sprechen* (already partial in A1: *sprechen*), *rich → reich*, *teach → zeigen* (irregular), *wake → wachen*, *I → ich* (high-frequency irregular), *not → nicht* (high-frequency irregular).
 
 ## Note
 

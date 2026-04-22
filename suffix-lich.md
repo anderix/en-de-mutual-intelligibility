@@ -25,9 +25,50 @@ The English equivalent uses Latin-derived *-ible*; the German uses native *-lich
 **feminine / female ↔ weiblich** *(A1, from Weib, archaic for woman)*
 *Das Formular fragt nach männlich oder weiblich.*
 
+**friendly ↔ freundlich** *(A2, from Freund)*
+Direct *-ly* mapping: *Freund + lich = friend + ly*.
+*Unsere neuen Nachbarn sind sehr freundlich.*
+
+**dangerous ↔ gefährlich** *(A2, from Gefahr)*
+Maps to English *-ous* rather than *-ly*, because the English adjective is Latin-rooted.
+*Im Winter ist der Weg sehr gefährlich.*
+
+**ugly / hideous ↔ hässlich** *(A2, from Hass)*
+Literally "hate-ly." English *-ly* doesn't survive in "ugly" but the structural pattern is the same.
+*Dieses alte Gebäude finde ich hässlich.*
+
+**hopefully ↔ hoffentlich** *(A2, from hoffen)*
+Direct *-ly* mapping from a verb stem.
+*Hoffentlich scheint morgen die Sonne.*
+
+**naturally / of course ↔ natürlich** *(A2, from Natur)*
+The English cognate is *-ly* layered on a Latin root; German uses native *-lich* on the same Latin root.
+*Natürlich helfe ich dir gerne.*
+
+**useful ↔ nützlich** *(A2, from Nutzen)*
+Maps to English *-ful*.
+*Dein Tipp war wirklich nützlich.*
+
+**harmful ↔ schädlich** *(A2, from Schaden)*
+Also maps to English *-ful*.
+*Zu viel Zucker ist schädlich.*
+
+**terrible / horrible ↔ schrecklich** *(A2, from Schreck)*
+*Gestern hatten wir schreckliches Wetter.*
+
+**in writing / written ↔ schriftlich** *(A2, from Schrift)*
+Maps to English *-en* (past participle used as adjective) rather than *-ly*.
+*Die Prüfung ist schriftlich und mündlich.*
+
+**daily ↔ täglich** *(A2, from Tag)*
+*Ich lese täglich eine Zeitung.*
+
+**really ↔ wirklich** *(A2, from wirken)*
+*Das ist wirklich eine gute Idee.*
+
 ## Pairs to expect at higher levels
 
-*freundlich* (friendly), *täglich* (daily), *wöchentlich* (weekly), *monatlich* (monthly), *jährlich* (yearly), *natürlich* (naturally), *wirklich* (really), *plötzlich* (suddenly), *peinlich* (embarrassing/painful), *gemütlich* (cozy — famous untranslatable), *gefährlich* (dangerous), *wichtig* (important — uses *-ig* instead).
+*wöchentlich* (weekly), *monatlich* (monthly), *jährlich* (yearly), *plötzlich* (suddenly), *peinlich* (embarrassing/painful), *gemütlich* (cozy — famous untranslatable), *wichtig* (important — uses *-ig* instead), *pünktlich* (already in A1 entries above).
 
 ## Note
 

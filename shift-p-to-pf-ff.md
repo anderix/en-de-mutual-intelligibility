@@ -20,9 +20,21 @@ Between vowels, so *ff*.
 Between vowels, so *ff* in some forms (*Schlaf*, *schliff* historically); in *schlafen* the *p* has fully shifted but the spelling shows *f*.
 *Sie schläft bis neun Uhr morgens.*
 
+**ship ↔ das Schiff** *(A2)*
+Final *p* → *ff*. Also *sh* → *sch* (consistent English/German spelling difference).
+*Das Schiff fährt heute um sechs Uhr ab.*
+
+**hope ↔ hoffen** *(A2, verb)*
+Medial *p* → *ff*.
+*Ich hoffe, dass ihr bald kommt.*
+
+**help ↔ helfen** *(A2, verb)* — cross-listed from germanic-cognates-no-shift
+Medial *p* → *f*. The shift is slightly less visible because the English form also uses a single consonant, but the kinship is the same.
+*Kannst du mir bitte beim Umzug helfen?*
+
 ## Pairs to expect at higher levels
 
-*pepper → Pfeffer* (initial *pf*), *pipe → Pfeife*, *pound → Pfund*, *plant → pflanzen* (initial cluster *pfl*), *ship → Schiff* (final *ff*), *help → helfen* (already in A1 as *helfen*, the medial *p* → *f*), *deep → tief*, *cheap → kaufen* (irregular), *hope → hoffen*.
+*pepper → Pfeffer* (initial *pf*), *pipe → Pfeife*, *pound → Pfund*, *plant → pflanzen* (initial cluster *pfl*), *cheap → kaufen* (irregular).
 
 ## Note
 

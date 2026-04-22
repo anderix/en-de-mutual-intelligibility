@@ -17,12 +17,28 @@ The English cognate of *ausländisch* is *out-landish*, but modern English uses 
 A double-pattern entry: also fits identical-spelling-and-sound. Listed here because the *-al* suffix sits on top of *-tion*, both shared.
 *Unsere Schule ist sehr international.*
 
+**fantastic ↔ fantastisch** *(A2, adjective)*
+*Die Aussicht vom Berg ist fantastisch.*
+
+**practical ↔ praktisch** *(A2, adjective)*
+*Mein neues Handy ist wirklich sehr praktisch.*
+
+**typical ↔ typisch** *(A2, adjective)*
+*Das ist typisch für ihn.*
+
+**romantic ↔ romantisch** *(A2, adjective)*
+*Das Restaurant am Fluss ist sehr romantisch.*
+
+**funny / odd ↔ komisch** *(A2, adjective — partial false friend)*
+*komisch* usually means "funny" or "strange/odd" in modern German, not specifically "comic" in the dramatic sense. See also warning-false-friends.md.
+*Der Film war wirklich komisch — wir haben viel gelacht.*
+
 ## Pairs to expect at higher levels
 
-This is the pattern that pays out massively above A1:
-*elektrisch / electric*, *historisch / historic*, *politisch / political*, *kritisch / critical*, *praktisch / practical*, *typisch / typical*, *technisch / technical*, *ironisch / ironic*, *organisch / organic*, *pädagogisch / pedagogic*, *philosophisch / philosophical*, *romantisch / romantic*, *fantastisch / fantastic*, *systematisch / systematic*, *symbolisch / symbolic*, *tragisch / tragic*, *exotisch / exotic*, *enthusiastisch / enthusiastic*.
+The pattern pays out massively at B1 and above:
+*elektrisch / electric*, *historisch / historic*, *politisch / political*, *kritisch / critical*, *technisch / technical*, *ironisch / ironic*, *organisch / organic*, *pädagogisch / pedagogic*, *philosophisch / philosophical*, *systematisch / systematic*, *symbolisch / symbolic*, *tragisch / tragic*, *exotisch / exotic*, *enthusiastisch / enthusiastic*.
 
-The Madrigal book opens its pattern instruction with this exact mapping and lists dozens of pairs in Chapter 1. Worth pulling them in once we hit A2/B1.
+The Madrigal book opens its pattern instruction with this exact mapping and lists dozens of pairs in Chapter 1. Worth pulling them in as we hit B1.
 
 ## Note
 

@@ -18,9 +18,17 @@ The *-ght-* in English maps to *-cht-* in German. Also shows d → t shift initi
 English silently mutated /x/ to /f/, leaving *gh* as a relic spelling. German kept the original /x/ sound and writes it *ch*. See also shift-k-to-ch.md.
 *Wir lachen oft zusammen.*
 
+**night ↔ die Nacht** *(A2)*
+*-ght-* → *-cht-*. One of the cleanest examples of the pattern.
+*In der Nacht hat es stark geregnet.*
+
+**eight ↔ acht** *(A2, number)*
+*-gh-* → *-ch-*.
+*Ich stehe jeden Morgen um acht Uhr auf.*
+
 ## Pairs to expect at higher levels
 
-*night → Nacht*, *eight → acht*, *high → hoch* (already in A1), *right → recht* (already in A1 as *rechts*), *might → Macht* (semantic shift), *bright → ?* (no direct cognate), *fight → fechten* (semantic shift), *enough → genug* (English *gh* mutated to /f/ here), *through → durch* (irregular: gh dropped in English; in German the d-initial reflects the th-d shift instead).
+*high → hoch* (already in A1), *right → recht* (already in A1 as *rechts*), *might → Macht* (semantic shift), *bright → ?* (no direct cognate), *fight → fechten* (semantic shift), *enough → genug* (English *gh* mutated to /f/ here), *through → durch* (irregular: gh dropped in English; in German the d-initial reflects the th-d shift instead).
 
 ## Why this pattern is high-leverage
 

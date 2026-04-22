@@ -37,9 +37,25 @@ Word-final after consonant, so *z* in German.
 **white ↔ weiß** *(A1, in compound Weißbrot)*
 *Anna kauft Weißbrot beim Bäcker.*
 
+**forget ↔ vergessen** *(A2, verb)*
+Short vowel before *t*, so *ss* in German.
+*Ich habe meine Hausaufgaben vergessen.*
+
+**let ↔ lassen** *(A2, verb)*
+Short vowel, so *ss*. Semantic overlap is partial: *lassen* covers "let" plus "leave (behind)."
+*Lass mich bitte nicht so lange warten.*
+
+**hot ↔ heiß** *(A2, adjective)*
+Long vowel, so *ß*.
+*Vorsicht, der Tee ist sehr heiß.*
+
+**white ↔ weiß** *(A2, also color)*
+Long vowel + diphthong, so *ß*. (Was in A1 only in the compound *Weißbrot*; now as a color adjective in A2.)
+*Sie trägt eine weiße Bluse.*
+
 ## Pairs to expect at higher levels
 
-*nut → Nuss*, *let → lassen*, *forget → vergessen*, *sit → sitzen* (also gemination), *bite → beißen*, *out → aus* (related but irregular), *what → was* (irregular), *to → zu* (word-initial *t* shifted to *z* here, exception to the usual word-initial preservation).
+*nut → Nuss*, *bite → beißen*, *sit → sitzen* (also gemination), *out → aus* (related but irregular), *what → was* (irregular), *to → zu* (word-initial *t* shifted to *z* here, exception to the usual word-initial preservation).
 
 ## Note on word-initial t
 

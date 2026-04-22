@@ -48,6 +48,22 @@ After short vowel, so doubled *tt*.
 **wide ↔ weit** *(A1, adjective)*
 *Das Dorf ist nicht weit von hier.*
 
+**deep ↔ tief** *(A2, adjective)*
+Word-initial *d* → *t*. Also note the final *p* → *f* (see shift-p-to-pf-ff.md). A double shift.
+*Der See ist an dieser Stelle sehr tief.*
+
+**deer / animal ↔ das Tier** *(A2)*
+Word-initial *d* → *t*. Semantic shift: English *deer* narrowed to mean one specific animal; German *Tier* retained the generic meaning "animal."
+*Im Zoo leben viele verschiedene Tiere.*
+
+**dream ↔ der Traum** *(A2)*
+Word-initial *d* → *t*.
+*Eine eigene Firma ist mein größter Traum.*
+
+**dry ↔ trocken** *(A2, adjective)*
+Word-initial *d* → *t*. The vowel also shifted.
+*Die Wäsche ist endlich trocken.*
+
 ## Pairs to expect at higher levels
 
-*day → Tag*, *deep → tief*, *door → Tür*, *dance → Tanz* (already partly in A1 as *tanzen*), *deer → Tier* (semantic shift), *dry → trocken*, *dream → Traum*, *under → unter* (already in A1).
+*day → Tag*, *door → Tür*, *dance → Tanz* (already partly in A1 as *tanzen*), *under → unter* (already in A1).

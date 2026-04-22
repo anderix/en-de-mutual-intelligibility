@@ -9,10 +9,14 @@ The etymological connection is direct: both descend from Proto-Germanic */-lausa
 **jobless / unemployed ↔ arbeitslos** *(A1, from Arbeit)*
 *Seit drei Monaten ist er arbeitslos.*
 
+**free (no cost) ↔ kostenlos** *(A2, from Kosten)*
+Literally "costless." English uses "free" in everyday speech, though "cost-free" exists in formal use.
+*Das Parken hier ist ganz kostenlos.*
+
 ## Pairs to expect at higher levels
 
 The pattern is fully productive in German. Almost any noun can take *-los* and the meaning is predictable:
-*hilflos / helpless*, *hoffnungslos / hopeless*, *farblos / colorless*, *fehlerlos / errorless / flawless*, *endlos / endless*, *zwecklos / pointless*, *kostenlos / costless / free*, *zeitlos / timeless*, *gedankenlos / thoughtless*, *furchtlos / fearless*, *gnadenlos / merciless*.
+*hilflos / helpless*, *hoffnungslos / hopeless*, *farblos / colorless*, *fehlerlos / errorless / flawless*, *endlos / endless*, *zwecklos / pointless*, *zeitlos / timeless*, *gedankenlos / thoughtless*, *furchtlos / fearless*, *gnadenlos / merciless*.
 
 ## Note
 

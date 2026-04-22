@@ -17,9 +17,15 @@ Spelling differs slightly: English *reception*, German *Rezeption* (note the *z*
 The adjective form is also identically spelled.
 *Das Festival ist international bekannt.*
 
+**portion ↔ die Portion** *(A2)*
+*Eine kleine Portion Pommes, bitte.*
+
+**situation ↔ die Situation** *(A2)*
+*Wir sind in einer schwierigen Situation.*
+
 ## Pairs to expect at higher levels
 
-Massive yield above A1: *Nation / nation*, *Station / station*, *Position / position*, *Situation / situation*, *Konversation / conversation*, *Reservation / reservation*, *Generation / generation*, *Operation / operation*, *Demonstration / demonstration*, *Dokumentation / documentation*, *Konzentration / concentration*, *Inflation / inflation*, *Diskussion / discussion* (same family with *-ssion*), *Mission / mission*, *Vision / vision*.
+Massive yield above A1: *Nation / nation*, *Station / station*, *Position / position*, *Konversation / conversation*, *Reservation / reservation*, *Generation / generation*, *Operation / operation*, *Demonstration / demonstration*, *Dokumentation / documentation*, *Konzentration / concentration*, *Inflation / inflation*, *Diskussion / discussion* (same family with *-ssion*), *Mission / mission*, *Vision / vision*.
 
 ## Pronunciation difference (spelled-identical, sound-different)
 

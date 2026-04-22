@@ -48,6 +48,15 @@ Note: V is pronounced /f/, so *Vater* sounds like "FAH-ter." See pronunciation n
 **other ↔ ander-** *(A1)*
 *Hast du ein anderes Beispiel?*
 
+**thing ↔ das Ding** *(A2)*
+*Was ist das für ein Ding da drüben?*
+
+**thick ↔ dick** *(A2, adjective)*
+*Ich trage heute einen dicken Pullover.*
+
+**thin ↔ dünn** *(A2, adjective)*
+*Dieses Buch ist sehr dünn — nur fünfzig Seiten.*
+
 ## Pairs to expect at higher levels
 
-*thing → Ding*, *three → drei*, *thousand → tausend*, *thick → dick*, *thin → dünn*, *thatch → Dach* (roof, semantic shift), *thunder → Donner*. The pattern keeps paying out all the way through C2.
+*three → drei*, *thousand → tausend*, *thatch → Dach* (roof, semantic shift), *thunder → Donner*. The pattern keeps paying out all the way through C2.

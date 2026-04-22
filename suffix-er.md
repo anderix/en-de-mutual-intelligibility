@@ -41,9 +41,48 @@ This one's a trap: *Fehler* means "mistake/error" — it's an *-er* noun but not
 *Kunde* is irregular — not formed with *-er* — but follows the agent semantics. Listed here as a near-miss worth noting.
 *Jeder Kunde bekommt einen kleinen Kaffee.*
 
+**babysitter ↔ der Babysitter** *(A2, English loan)*
+Same spelling, same meaning. An example of an *-er* agent noun that travelled into German as a loan.
+*Unser Babysitter kommt immer pünktlich.*
+
+**TV set ↔ der Fernseher** *(A2, from fernsehen)*
+Literally "the far-see-er." Colloquial alternative to *der Fernsehapparat*.
+*Der neue Fernseher hängt an der Wand.*
+
+**artist ↔ der Künstler / die Künstlerin** *(A2, from Kunst)*
+*Dieser Künstler malt moderne Bilder.*
+
+**mechanic ↔ der Mechaniker / die Mechanikerin** *(A2)*
+Latin-root profession name with the agent *-er* suffix layered on.
+*Der Mechaniker repariert mein Auto.*
+
+**co-worker / employee ↔ der Mitarbeiter / die Mitarbeiterin** *(A2, from mitarbeiten)*
+Literally "with-worker." English has no direct *-er* cognate; uses "colleague" or "employee."
+*Meine Mitarbeiter sind sehr nett.*
+
+**musician ↔ der Musiker / die Musikerin** *(A2)*
+*Die Musikerin spielt Gitarre und singt.*
+
+**guide / guidebook ↔ der Reiseführer / die Reiseführerin** *(A2)*
+Two meanings: the person who guides, and the book.
+*Der Reiseführer zeigt uns die Altstadt.*
+
+**retiree / pensioner ↔ der Rentner / die Rentnerin** *(A2, from Rente)*
+*Mein Opa ist schon seit zehn Jahren Rentner.*
+
+**singer ↔ der Sänger / die Sängerin** *(A2, from singen)*
+*Die Sängerin hat eine wunderschöne Stimme.*
+
+**actor ↔ der Schauspieler / die Schauspielerin** *(A2, from schauen + spielen)*
+Compound: "show-player."
+*Er ist ein berühmter Schauspieler.*
+
+**technician ↔ der Techniker / die Technikerin** *(A2)*
+*Der Techniker kommt am Dienstag zur Reparatur.*
+
 ## Pairs to expect at higher levels
 
-Almost any German verb can spawn an agent noun: *Maler* (painter), *Bäcker* (baker, already in A1 as *Bäckerei*), *Sänger* (singer), *Spieler* (player), *Käufer* (buyer), *Leser* (reader), *Hörer* (listener / phone receiver), *Schreiber* (writer/scribe). The pattern is fully productive in both languages.
+Almost any German verb can spawn an agent noun: *Maler* (painter), *Bäcker* (baker, already in A1 as *Bäckerei*), *Spieler* (player), *Käufer* (buyer), *Leser* (reader), *Hörer* (listener / phone receiver), *Schreiber* (writer/scribe). The pattern is fully productive in both languages.
 
 ## Note
 
