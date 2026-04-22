@@ -80,9 +80,45 @@ Compound: "show-player."
 **technician ↔ der Techniker / die Technikerin** *(A2)*
 *Der Techniker kommt am Dienstag zur Reparatur.*
 
+### B1 additions
+
+**visitor ↔ der Besucher / die Besucherin** *(B1, from besuchen)*
+*Das Museum hatte letztes Jahr viele Besucher.*
+
+**inhabitant / resident ↔ der Einwohner / die Einwohnerin** *(B1, from einwohnen)*
+*Berlin hat etwa vier Millionen Einwohner.*
+
+**buyer ↔ der Käufer / die Käuferin** *(B1, from kaufen)*
+*Der Käufer war mit dem Auto zufrieden.*
+
+**renter / tenant ↔ der Mieter / die Mieterin** *(B1, from mieten)*
+Counterpart to *Vermieter* (landlord, already in A1 entries above).
+*Die Mieter beschweren sich über die Heizung.*
+
+**viewer / spectator ↔ der Zuschauer / die Zuschauerin** *(B1, from zuschauen)*
+*Die Zuschauer klatschten am Ende.*
+
+**listener ↔ der Zuhörer / die Zuhörerin** *(B1, from zuhören)*
+*Die Zuhörer stellten viele Fragen.*
+
+**winner ↔ der Gewinner / die Gewinnerin** *(B1, from gewinnen)*
+*Die Gewinner bekommen einen Preis.*
+
+**loser ↔ der Verlierer / die Verliererin** *(B1, from verlieren)*
+*Auch die Verlierer haben gut gespielt.*
+
+**player ↔ der Spieler / die Spielerin** *(B1, from spielen)*
+*Jeder Spieler bekommt fünf Karten.*
+
+**trainer / coach ↔ der Trainer / die Trainerin** *(B1, English loan but conjugates like native agent noun)*
+*Der Trainer kommt aus Spanien.*
+
+**reader ↔ der Leser / die Leserin** *(B1, from lesen)*
+*Die Zeitschrift hat viele Leser.*
+
 ## Pairs to expect at higher levels
 
-Almost any German verb can spawn an agent noun: *Maler* (painter), *Bäcker* (baker, already in A1 as *Bäckerei*), *Spieler* (player), *Käufer* (buyer), *Leser* (reader), *Hörer* (listener / phone receiver), *Schreiber* (writer/scribe). The pattern is fully productive in both languages.
+The *-er* pattern is fully productive. Almost any German verb can spawn an agent noun: *Maler* (painter), *Bäcker* (baker, already in A1 as *Bäckerei*), *Hörer* (listener / phone receiver), *Schreiber* (writer/scribe), *Wähler* (voter), *Raucher* (smoker), *Forscher* (researcher), *Teilnehmer* (participant), *Redner* (speaker).
 
 ## Note
 

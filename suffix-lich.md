@@ -66,9 +66,60 @@ Maps to English *-en* (past participle used as adjective) rather than *-ly*.
 **really ↔ wirklich** *(A2, from wirken)*
 *Das ist wirklich eine gute Idee.*
 
+### B1 additions
+
+**actually / in fact ↔ tatsächlich** *(B1, adverb)*
+*Tat* (deed) + *sach* (matter) + *-lich*. Contrast with *eigentlich* (which has more of a "really, properly" sense).
+*Tatsächlich habe ich das Buch schon gelesen.*
+
+**usually ↔ gewöhnlich** *(B1, from Gewohnheit via the same root as gewöhnen "to get used to")*
+*Gewöhnlich frühstücke ich um sieben Uhr.*
+
+**sporty / athletic ↔ sportlich** *(B1, from Sport)*
+*Mein Bruder ist sehr sportlich.*
+
+**factual / matter-of-fact ↔ sachlich** *(B1, from Sache)*
+*Bitte bleib sachlich.*
+
+**mainly ↔ hauptsächlich** *(B1, from Haupt "head/chief" + Sache + lich)*
+*Ich esse hauptsächlich vegetarisch.*
+
+**finally ↔ schließlich** *(B1, from schließen)*
+*Schließlich hat er doch zugestimmt.*
+
+**weekly ↔ wöchentlich** *(B1, from Woche)*
+*Ich gehe wöchentlich einkaufen.*
+
+**monthly ↔ monatlich** *(B1, from Monat)*
+*Die Miete bezahle ich monatlich.*
+
+**yearly ↔ jährlich** *(B1, from Jahr)*
+*Einmal jährlich gehe ich zum Zahnarzt.*
+
+**understandable ↔ verständlich** *(B1, from verstehen)*
+*Deine Entscheidung ist völlig verständlich.*
+
+**professional (career-related) ↔ beruflich** *(B1, from Beruf)*
+*Beruflich bin ich viel unterwegs.*
+
+**presumably ↔ vermutlich** *(B1, from Vermutung via vermuten)*
+*Er kommt vermutlich nicht mehr heute.*
+
+**embarrassing / painful ↔ peinlich** *(B1)*
+*Das war mir sehr peinlich.*
+
+**personal ↔ persönlich** *(B1, from Person)*
+*Das ist eine persönliche Frage.*
+
+**scientific ↔ wissenschaftlich** *(B1, from Wissenschaft)*
+*Das Buch ist streng wissenschaftlich.*
+
+**average ↔ durchschnittlich** *(B1, from Durchschnitt)*
+*Die Löhne sind durchschnittlich gestiegen.*
+
 ## Pairs to expect at higher levels
 
-*wöchentlich* (weekly), *monatlich* (monthly), *jährlich* (yearly), *plötzlich* (suddenly), *peinlich* (embarrassing/painful), *gemütlich* (cozy — famous untranslatable), *wichtig* (important — uses *-ig* instead), *pünktlich* (already in A1 entries above).
+*gemütlich* (cozy — famous untranslatable), *wichtig* (important — uses *-ig* instead), *ärgerlich* (annoying), *auffällig* (conspicuous — *-ig*), *grundsätzlich* (fundamentally), *öffentlich* (public), *rechtlich* (legal), *schriftlich* (already A2), *mündlich* (oral), *menschlich* (human).
 
 ## Note
 

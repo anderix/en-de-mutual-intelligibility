@@ -75,9 +75,70 @@ Maps to English *opinion* rather than to a direct *-ation* cognate.
 **delay ↔ die Verspätung** *(A2, from sich verspäten)*
 *Unser Zug hat heute keine Verspätung.*
 
+### B1 additions
+
+**meaning ↔ die Bedeutung** *(B1, from bedeuten)*
+*Dieses Wort hat zwei verschiedene Bedeutungen.*
+
+**hope ↔ die Hoffnung** *(B1, from hoffen)*
+*Ich habe die Hoffnung noch nicht aufgegeben.*
+
+**decision ↔ die Entscheidung** *(B1, from entscheiden)*
+*Das war eine schwere Entscheidung.*
+
+**exercise / practice ↔ die Übung** *(B1, from üben)*
+*Machen wir noch eine Übung zum Thema.*
+
+**introduction / idea / performance ↔ die Vorstellung** *(B1, from vorstellen)*
+Three meanings: introduction, mental conception, theatre performance.
+*Die Vorstellung beginnt um halb acht.*
+
+**explanation ↔ die Erklärung** *(B1, from erklären)*
+*Kannst du mir eine kurze Erklärung geben?*
+
+**recommendation ↔ die Empfehlung** *(B1, from empfehlen)*
+*Dein Restaurant war eine gute Empfehlung.*
+
+**assembly / meeting ↔ die Versammlung** *(B1, from versammeln)*
+*Die Versammlung dauerte zwei Stunden.*
+
+**government ↔ die Regierung** *(B1, from regieren)*
+*Die Regierung hat neue Gesetze beschlossen.*
+
+**description ↔ die Beschreibung** *(B1, from beschreiben)*
+*Ich brauche eine genaue Beschreibung des Weges.*
+
+**movement ↔ die Bewegung** *(B1, from bewegen)*
+*Diese Bewegung ist gut für den Rücken.*
+
+**training / education ↔ die Ausbildung** *(B1, from ausbilden)*
+*Meine Ausbildung dauert drei Jahre.*
+
+**greeting ↔ die Begrüßung** *(B1, from begrüßen)*
+*Bei der Begrüßung gibt man sich oft die Hand.*
+
+**connection ↔ die Verbindung** *(B1, from verbinden)*
+*Die Verbindung ist heute schlecht.*
+
+**surroundings / environment ↔ die Umgebung** *(B1, from umgeben)*
+*In der Umgebung gibt es viele Wanderwege.*
+
+**delivery ↔ die Lieferung** *(B1, from liefern)*
+*Die Lieferung kommt am Mittwoch.*
+
+**receipt ↔ die Quittung** *(B1, from quittieren)*
+*Könnte ich bitte eine Quittung bekommen?*
+
+**hike / walking tour ↔ die Wanderung** *(B1, from wandern)*
+Also the source of English loan *Wanderlust* via the verb.
+*Die Wanderung dauert etwa vier Stunden.*
+
+**announcement / message ↔ die Mitteilung** *(B1, from mitteilen)*
+*Ich habe eine wichtige Mitteilung für euch.*
+
 ## Pairs to expect at higher levels
 
-*Bedeutung* (meaning), *Hoffnung* (hope), *Übung* (exercise/practice), *Vorstellung* (introduction/performance), *Erklärung* (explanation, → *explanation*), *Entscheidung* (decision, → *decision*), *Empfehlung* (recommendation), *Versammlung* (assembly).
+*Entwicklung* (development), *Forschung* (research), *Leistung* (achievement/performance), *Lösung* (already A1), *Meinung* (already A2), *Erhöhung* (increase), *Senkung* (decrease), *Verpflichtung* (obligation), *Versicherung* (insurance), *Wirkung* (effect), *Erinnerung* (memory), *Rechnung* (already A1), *Gewohnheit* (uses *-heit* instead).
 
 ## Note
 

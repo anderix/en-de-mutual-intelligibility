@@ -33,12 +33,48 @@ A double-pattern entry: also fits identical-spelling-and-sound. Listed here beca
 *komisch* usually means "funny" or "strange/odd" in modern German, not specifically "comic" in the dramatic sense. See also warning-false-friends.md.
 *Der Film war wirklich komisch — wir haben viel gelacht.*
 
+### B1 additions — the Madrigal explosion starts
+
+**electric ↔ elektrisch** *(B1)*
+*Der Herd ist elektrisch.*
+
+**electronic ↔ elektronisch** *(B1)*
+*Ich bekomme nur noch elektronische Rechnungen.*
+
+**historic / historical ↔ historisch** *(B1)*
+*Dieses Gebäude ist historisch wertvoll.*
+
+**critical ↔ kritisch** *(B1)*
+*Die Situation ist kritisch.*
+
+**optimistic ↔ optimistisch** *(B1)*
+*Ich bin optimistisch, dass wir es schaffen.*
+
+**realistic ↔ realistisch** *(B1)*
+*Dein Plan ist nicht besonders realistisch.*
+
+**urban / municipal ↔ städtisch** *(B1, from Stadt + -isch)*
+Maps to English *urban* rather than a *-isch/-ic* cognate.
+*Die städtische Bibliothek ist am Sonntag geschlossen.*
+
+**statistical ↔ statistisch** *(B1)*
+*Statistisch gesehen sind Autofahrten gefährlicher als Flüge.*
+
+**stylistic ↔ stilistisch** *(B1)*
+*Der Text hat noch einige stilistische Fehler.*
+
+**theoretical ↔ theoretisch** *(B1)*
+*Theoretisch könnte das funktionieren.*
+
+**vegetarian ↔ vegetarisch** *(B1, adjective)*
+*Ich koche nur vegetarische Gerichte.*
+
 ## Pairs to expect at higher levels
 
-The pattern pays out massively at B1 and above:
-*elektrisch / electric*, *historisch / historic*, *politisch / political*, *kritisch / critical*, *technisch / technical*, *ironisch / ironic*, *organisch / organic*, *pädagogisch / pedagogic*, *philosophisch / philosophical*, *systematisch / systematic*, *symbolisch / symbolic*, *tragisch / tragic*, *exotisch / exotic*, *enthusiastisch / enthusiastic*.
+The pattern keeps paying out at B2 and above:
+*politisch / political*, *technisch / technical*, *ironisch / ironic*, *organisch / organic*, *pädagogisch / pedagogic*, *philosophisch / philosophical*, *systematisch / systematic*, *symbolisch / symbolic*, *tragisch / tragic*, *exotisch / exotic*, *enthusiastisch / enthusiastic*, *demokratisch / democratic*, *republikanisch / republican*, *akademisch / academic*, *ökonomisch / economic*, *dramatisch / dramatic*, *klassisch / classical*.
 
-The Madrigal book opens its pattern instruction with this exact mapping and lists dozens of pairs in Chapter 1. Worth pulling them in as we hit B1.
+The Madrigal book opens its pattern instruction with this exact mapping and lists dozens of pairs in Chapter 1. B1 starts filling that list out; B2-C1 finishes it.
 
 ## Note
 

@@ -23,9 +23,58 @@ The adjective form is also identically spelled.
 **situation ↔ die Situation** *(A2)*
 *Wir sind in einer schwierigen Situation.*
 
+### B1 additions — the -tion pattern opens up
+
+**action ↔ die Aktion** *(B1)*
+*Die Aktion gegen Klimawandel beginnt morgen.*
+
+**generation ↔ die Generation** *(B1)*
+*Diese Musik gefällt jeder Generation.*
+
+**congratulation ↔ die Gratulation** *(B1)*
+German also uses *der Glückwunsch* for this concept.
+*Herzliche Gratulation zu deinem Erfolg!*
+
+**infection ↔ die Infektion** *(B1)*
+*Die Infektion muss sofort behandelt werden.*
+
+**integration ↔ die Integration** *(B1)*
+*Die Integration neuer Mitarbeiter dauert einige Wochen.*
+
+**communication ↔ die Kommunikation** *(B1)*
+*Gute Kommunikation ist in jedem Team wichtig.*
+
+**migration ↔ die Migration** *(B1)*
+*Das Thema Migration wird viel diskutiert.*
+
+**operation ↔ die Operation** *(B1, medical or general)*
+*Die Operation war erfolgreich.*
+
+**organization ↔ die Organisation** *(B1)*
+*Diese Organisation hilft Kindern in Not.*
+
+**presentation ↔ die Präsentation** *(B1)*
+*Meine Präsentation dauert zwanzig Minuten.*
+
+**production ↔ die Produktion** *(B1)*
+*Die Produktion läuft rund um die Uhr.*
+
+**qualification ↔ die Qualifikation** *(B1)*
+*Welche Qualifikationen brauche ich für diesen Job?*
+
+**reaction ↔ die Reaktion** *(B1)*
+*Seine Reaktion war unerwartet.*
+
+**station ↔ die Station** *(B1)*
+Also in the sense of train station, though German often prefers *Bahnhof*.
+*Der Zug hält an jeder Station.*
+
+**tradition ↔ die Tradition** *(B1)*
+*Das ist eine alte Familientradition.*
+
 ## Pairs to expect at higher levels
 
-Massive yield above A1: *Nation / nation*, *Station / station*, *Position / position*, *Konversation / conversation*, *Reservation / reservation*, *Generation / generation*, *Operation / operation*, *Demonstration / demonstration*, *Dokumentation / documentation*, *Konzentration / concentration*, *Inflation / inflation*, *Diskussion / discussion* (same family with *-ssion*), *Mission / mission*, *Vision / vision*.
+At B2 and above: *Nation / nation*, *Position / position*, *Konversation / conversation*, *Reservation / reservation*, *Demonstration / demonstration*, *Dokumentation / documentation*, *Konzentration / concentration*, *Inflation / inflation*, *Diskussion / discussion* (same family with *-ssion*), *Mission / mission*, *Vision / vision*, *Definition / definition*, *Explosion / explosion*, *Revolution / revolution*, *Institution / institution*.
 
 ## Pronunciation difference (spelled-identical, sound-different)
 

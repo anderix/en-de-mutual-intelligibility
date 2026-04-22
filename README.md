@@ -34,6 +34,7 @@ One markdown file per pattern. Each file collects all the words that fit that pa
 - [suffix-tion.md](suffix-tion.md) — Identical *-tion* in both languages.
 - [suffix-los.md](suffix-los.md) — German *-los* maps to English *-less*.
 - [suffix-bar.md](suffix-bar.md) — German *-bar* maps to English *-able* or *-ful*.
+- [suffix-itaet.md](suffix-itaet.md) — German *-ität* maps to English *-ity*. Emerges at A2, expands at B1.
 
 ### Surface relationships
 
