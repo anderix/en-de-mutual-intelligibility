@@ -21,6 +21,32 @@ In German, *die Homepage* often refers to an entire website, not just its landin
 Mostly used like English *service* in hospitality and commerce, but German *der Service* also extends to car servicing and phone support in ways that English sometimes splits across different terms.
 *Der Service im Restaurant war ausgezeichnet.*
 
+## Entries from B1
+
+**Beamer ↔ "projector"** *(B1, der Beamer)*
+German uses *Beamer* for video projectors. In English, *Beemer* (note spelling) is informal for a BMW, so the wrong connection is easy to draw.
+*Der Beamer funktioniert heute leider nicht.* (The **projector** isn't working today.)
+
+**Smoking ↔ "tuxedo / dinner jacket"** *(B1, der Smoking)*
+Has nothing to do with smoking the activity (which is *das Rauchen*).
+*Zur Hochzeit trägt er einen Smoking.* (To the wedding he's wearing a **tuxedo**.)
+
+**Oldtimer ↔ "classic / vintage car"** *(B1, der Oldtimer)*
+In English "old-timer" refers to an elderly person. In German *der Oldtimer* is always a vintage vehicle.
+*Mein Nachbar fährt einen Oldtimer von 1965.* (My neighbor drives a **classic car** from 1965.)
+
+**Public Viewing ↔ "outdoor screening / watch party"** *(B1)*
+In English, "public viewing" most often refers to a viewing of a corpse before a funeral. German uses it for crowds watching sports on big outdoor screens. This is one of the more jarring false cognates for English speakers visiting Germany during a major sports event.
+*Beim Public Viewing haben wir das Finale gemeinsam angeschaut.* (At the **watch party** we all watched the final together.)
+
+**Mobbing ↔ "bullying"** *(B1, das Mobbing)*
+Not a mob attack. *Mobbing* in German is workplace or school bullying, a psychological phenomenon.
+*Mobbing am Arbeitsplatz ist verboten.* (**Workplace bullying** is forbidden.)
+
+**Home Office ↔ "working from home"** *(B1)*
+Since 2020 this term has become universal in German. In English (especially UK), *the Home Office* is a specific government ministry.
+*Ich arbeite heute im Home Office.* (I'm **working from home** today.)
+
 ## Pairs to expect at higher levels
 
 The famous pseudo-anglicism set comes online at A2 and B1:

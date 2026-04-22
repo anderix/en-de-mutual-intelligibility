@@ -92,6 +92,36 @@ This is one of the most common traps for English speakers. A German speaker sayi
 **genial** *(not yet in A2 scope but common)*
 Means **brilliant, ingenious** in German. NOT English "genial" (which is *freundlich* in German).
 
+## Entries from B1
+
+**sensibel** *(B1, adjective)*
+Means **sensitive, easily hurt** in German. NOT English "sensible" (which is *vernünftig* in German).
+*Sie ist ein sehr sensibler Mensch.* (She is a very **sensitive** person.)
+
+**der Rat** *(B1, plural: Räte)*
+Means **advice** or **council** in German. NOT English "rat" (the rodent, which is *die Ratte* in German).
+*Kannst du mir einen Rat geben?* (Can you give me some **advice**?)
+
+**die Art** *(B1)*
+Means **kind / type / manner** in German. NOT English "art" (which is *die Kunst* in German).
+*Das ist eine neue Art von Apfel.* (That's a new **kind** of apple.)
+
+**die Hose** *(B1)*
+Means **trousers / pants** in German (used with singular article even though English uses plural). NOT English "hose" (which is *der Schlauch* for water or *die Strümpfe* for stockings).
+*Meine Hose ist zu eng geworden.* (My **trousers** have gotten too tight.)
+
+**der Rock** *(B1)*
+Means **skirt** in German. NOT English "rock" (the stone, which is *der Fels* or *der Stein*). Musical "rock" is *der Rock* too, which creates its own confusion.
+*Sie trägt einen langen Rock.* (She's wearing a long **skirt**.)
+
+**der Mist** *(B1)*
+Means **manure** or informally **rubbish / crap** in German. NOT English "mist" (which is *der Nebel* in German).
+*So ein Mist! Ich habe den Zug verpasst.* (**Damn it!** I missed the train.)
+
+**die Sympathie** *(B1)*
+Means **warm feeling toward someone, liking** in German. NOT English "sympathy" in the sense of condolence (which is *das Mitgefühl*).
+*Ich habe viel Sympathie für den neuen Kollegen.* (I have a lot of **warm feelings** for the new colleague.)
+
 ## The reverse direction
 
 A few German words also create traps when English speakers learn the equivalent — *Gift* (German for "poison") looks like English "gift" but isn't; the German for "gift" is *Geschenk* (which is in A1).

@@ -107,15 +107,17 @@ https://wortschatz.uni-leipzig.de/
 
 ## Status
 
-A1 and A2 mining complete. ~1,300 source words walked cumulatively, distributed into pattern files. B1 next. See git history and tags for milestones.
+A1, A2, and B1 mining complete. ~2,400 source words walked cumulatively, distributed into pattern files. B2 next (when we tackle it — there's no official Goethe list above B1, so sourcing will shift to Profile Deutsch and DWDS frequency data). See git history and tags for milestones.
 
-### Growth observations through A2
+### Growth observations through B1
 
-- The **Latin/Greek loan layer** and **English-to-German loans (Denglisch)** are the biggest growth vectors between A1 and A2. Scholarly and modern/technical vocabulary dominates.
-- The ***-isch/-ic*** suffix pattern starts expanding at A2 (*fantastisch, praktisch, typisch, romantisch, komisch*) and will explode at B1 per Madrigal's observation.
-- The ***-ität/-ity*** micro-pattern appears with *Qualität* and *Universität*, foreshadowing a rich B1 vein.
-- **False friends multiply**: *aktuell, eventuell, sympathisch, komisch, fast* are all A2 traps. Especially *fast* — "almost," not "fast."
-- **Function-word modifiers** (*besonders, eigentlich, plötzlich, wahrscheinlich, unbedingt*) appear at A2 and give German its nuance layer.
+- **The *-isch/-ic* suffix pattern finally explodes at B1** — *elektrisch, elektronisch, historisch, kritisch, optimistisch, realistisch, statistisch, theoretisch, vegetarisch* — validating Madrigal's central insight about this class of adjectives.
+- **The *-ität/-ity* pattern earned its own file** (*suffix-itaet.md*) at B1 with entries *Aktivität, Mobilität, Qualität, Realität, Universität*. This will be a massive growth vein at B2+.
+- **Latin/Greek scholarly vocabulary surges** at B1: *Demokratie, Dokument, Energie, Funktion, Konferenz, Konflikt, Methode, Minister, Politik, Präsident, Produkt, Prozess, Theater, Theorie, Transport, Zentrum* — essentially anyone literate in English can read a German newspaper headline at roughly 70% comprehension by B1.
+- **Denglisch (English→German loans) reaches full modern tech coverage**: *Browser, Design, Download, Event, Feedback, Fitness, Manager, Marketing, Meeting, Podcast, Show, Smartphone, Software, Trend, Website*.
+- **False friends multiply dangerously** at B1: *sensibel, Rat, Art, Hose, Rock, Mist, Sympathie* — each a trap where an English speaker's autopilot will confidently insert the wrong meaning.
+- **Pseudo-anglicisms fill in**: *Beamer, Smoking, Oldtimer, Public Viewing, Mobbing, Home Office* — the canonical Denglisch traps are all online by B1.
+- **Connectives and discourse markers** arrive at B1 (*allerdings, jedoch, trotzdem, obwohl, entweder...oder, weder...noch*) — this is what takes German writing from functional to fluent.
 
 ## License
 

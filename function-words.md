@@ -342,6 +342,48 @@ Compound: *wahr* (true, cognate with English "very" via Latin *verus* — differ
 *Welcher / welche / welches*. Cognate with English *which* via wh-/w- and ch-/-ich correspondence. Irregular on the consonant side but kinship visible.
 *Welches Buch möchtest du lesen?*
 
+## B1 additions — connectives and discourse
+
+**however ↔ allerdings** *(B1, adverb/discourse marker)*
+*Allerdings* is the go-to qualifier for "that said, however."
+*Das Buch ist interessant. Allerdings ist es sehr lang.*
+
+**therefore ↔ deswegen** *(B1, adverb)*
+Variant of *deshalb* (A2). Both mean "therefore" and are interchangeable in most contexts.
+*Es regnet, deswegen nehme ich den Bus.*
+
+**however ↔ jedoch** *(B1, conjunction)*
+More formal than *aber*. Common in written German.
+*Er hat es versucht, jedoch ohne Erfolg.*
+
+**nevertheless ↔ trotzdem** *(B1, adverb)*
+*Trotz* (despite) + *dem* (this).
+*Es regnet. Trotzdem gehen wir spazieren.*
+
+**although ↔ obwohl** *(B1, subordinating conjunction)*
+Introduces a subordinate clause — verb goes to the end.
+*Obwohl es regnet, gehen wir spazieren.*
+
+**because of ↔ wegen** *(B1, preposition)*
+Takes the genitive in formal writing, the dative in casual speech.
+*Wegen des schlechten Wetters bleiben wir zu Hause.*
+
+**either... or ↔ entweder... oder** *(B1, correlative conjunction)*
+Direct structural match.
+*Entweder wir fahren oder wir bleiben zu Hause.*
+
+**neither... nor ↔ weder... noch** *(B1, correlative conjunction)*
+Direct structural match.
+*Ich habe weder Zeit noch Lust.*
+
+**it's true... but ↔ zwar... aber** *(B1, correlative)*
+*Zwar* concedes a point before the *aber* introduces the counterpoint.
+*Zwar ist es teuer, aber es ist die Qualität wert.*
+
+**at the same time ↔ gleichzeitig** *(B1, adverb)*
+Compound: *gleich* (same) + *Zeit* (time) + *-ig*.
+*Ich kann nicht gleichzeitig arbeiten und reden.*
+
 ## Note
 
 The function-word layer of German is essentially Germanic-cognate to English, with predictable sound shifts (th → d, w → v in pronunciation, k → ch in some forms) and a few irregulars. Once a learner has mapped these correspondences, the structural reading of German sentences becomes nearly automatic — even before content vocabulary is in place.
