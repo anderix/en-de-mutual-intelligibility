@@ -26,9 +26,19 @@ English silently mutated /x/ to /f/, leaving *gh* as a relic spelling. German ke
 *-gh-* → *-ch-*.
 *Ich stehe jeden Morgen um acht Uhr auf.*
 
+### B1 additions
+
+**enough ↔ genug** *(B1)*
+A trickier example: English *-gh-* silently mutated to /f/ (same shift seen in *laugh, cough, tough*), while German kept neither the /x/ nor the /f/ — it simply dropped the consonant. Still a visible cognate once you know the pattern.
+*Ich habe genug Geld für das Auto.*
+
+**might / power ↔ die Macht** *(B1)*
+Semantic shift: English *might* preserved the meaning of "strength/power"; German *Macht* moved toward political power specifically. The auxiliary verb *might* in English comes from the same root.
+*Die Macht des Parlaments wächst.*
+
 ## Pairs to expect at higher levels
 
-*high → hoch* (already in A1), *right → recht* (already in A1 as *rechts*), *might → Macht* (semantic shift), *bright → ?* (no direct cognate), *fight → fechten* (semantic shift), *enough → genug* (English *gh* mutated to /f/ here), *through → durch* (irregular: gh dropped in English; in German the d-initial reflects the th-d shift instead).
+*bright → ?* (no direct Germanic cognate that survives), *fight → fechten* (semantic shift toward fencing), *through → durch* (irregular: gh dropped in English; in German the d-initial reflects the th-d shift).
 
 ## Why this pattern is high-leverage
 

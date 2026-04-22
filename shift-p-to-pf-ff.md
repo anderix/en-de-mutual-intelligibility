@@ -32,9 +32,23 @@ Medial *p* → *ff*.
 Medial *p* → *f*. The shift is slightly less visible because the English form also uses a single consonant, but the kinship is the same.
 *Kannst du mir bitte beim Umzug helfen?*
 
+### B1 additions
+
+**pound ↔ das Pfund** *(B1, weight)*
+Word-initial *p* → *pf*. German uses *Pfund* for both the weight measure (500g in modern German) and occasionally the British currency.
+*Ein Pfund Äpfel, bitte.*
+
+**plant ↔ die Pflanze** *(B1)*
+Word-initial *p* → *pf*. Plus the *pfl-* cluster — distinctive to German.
+*Meine Pflanzen brauchen mehr Wasser.*
+
+**pepper ↔ der Pfeffer** *(B1)*
+Word-initial *pf*, plus the double *-pp-* → *-ff-* pattern medially.
+*Die Suppe braucht mehr Pfeffer.*
+
 ## Pairs to expect at higher levels
 
-*pepper → Pfeffer* (initial *pf*), *pipe → Pfeife*, *pound → Pfund*, *plant → pflanzen* (initial cluster *pfl*), *cheap → kaufen* (irregular).
+*pipe → Pfeife*, *cheap → kaufen* (irregular), *sharp → scharf*, *path → Pfad*.
 
 ## Note
 

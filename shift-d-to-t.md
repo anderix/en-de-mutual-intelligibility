@@ -64,6 +64,19 @@ Word-initial *d* → *t*.
 Word-initial *d* → *t*. The vowel also shifted.
 *Die Wäsche ist endlich trocken.*
 
+### B1 additions
+
+**day ↔ der Tag** *(B1)*
+Word-initial *d* → *t*.
+*Gestern war ein schöner Tag.*
+
+**door ↔ die Tür** *(B1)*
+Word-initial *d* → *t*. Also the English *-oo-* vowel maps to German *ü* (a recurring pattern — see also *foot/Fuß*).
+*Bitte mach die Tür leise zu.*
+
+**dance ↔ der Tanz** *(B1, noun — verb form tanzen was in A1)*
+*Der letzte Tanz war besonders schön.*
+
 ## Pairs to expect at higher levels
 
-*day → Tag*, *door → Tür*, *dance → Tanz* (already partly in A1 as *tanzen*), *under → unter* (already in A1).
+*deed → Tat*, *dive → tauchen*, *drum → Trommel*, *dumb → dumm* (preserved *d* irregular here), *under → unter* (already in A1), *distance → Distanz* (Latin loan), *data → Daten* (Latin loan).

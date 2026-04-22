@@ -33,9 +33,22 @@ Medial *k* → *ch* (spelled *ck* in some forms); the English *-dge* is from Old
 Medial *k* → *ch*.
 *Nächste Woche fahren wir in Urlaub.*
 
+### B1 additions
+
+**rich ↔ reich** *(B1, adjective)*
+Final *k* → *ch* — but also a vowel shift (/ɪ/ → /aɪ/).
+*Diese Familie ist sehr reich.*
+
+**reach ↔ erreichen** *(B1, verb)*
+Final *ch* in both languages. The German verb takes the *er-* prefix, a pattern for "to bring to completion."
+*Ich muss den Zug um sieben Uhr erreichen.*
+
+**break ↔ brechen** *(B1, verb)*
+*Ich habe mir den Arm gebrochen.*
+
 ## Pairs to expect at higher levels
 
-*break → brechen*, *speak → sprechen* (already partial in A1: *sprechen*), *rich → reich*, *teach → zeigen* (irregular), *wake → wachen*, *I → ich* (high-frequency irregular), *not → nicht* (high-frequency irregular).
+*speak → sprechen* (already partial in A1 as *sprechen*), *teach → zeigen* (irregular), *wake → wachen*, *I → ich* (high-frequency irregular), *not → nicht* (high-frequency irregular), *make → machen* (already A1), *book → Buch* (already A1).
 
 ## Note
 

@@ -313,6 +313,65 @@ Cognate with English *drag* (d → t shift initially). Semantic split: German ke
 Cognate via Proto-Germanic; English "meet" and German "treffen" share a root meaning "to come upon."
 *Wir treffen uns heute Abend im Café.*
 
+### B1 additions
+
+**follow ↔ folgen** *(B1, verb)*
+*Folgen Sie bitte dem Schild zum Ausgang.*
+
+**fall ↔ fallen** *(B1, verb)*
+*Pass auf, das Glas fällt gleich!*
+
+**spring / jump ↔ springen** *(B1, verb)*
+Cognate with English *spring* (the leaping action, not the season).
+*Die Kinder springen im Garten.*
+
+**sing ↔ singen** *(B1, verb)*
+*Die Kinder singen ein schönes Lied.*
+
+**show ↔ zeigen** *(B1, verb)*
+Cognate via Proto-Germanic; the *g/w* alternation is irregular but visible.
+*Zeig mir bitte das Foto.*
+
+**stay ↔ bleiben** — already in A1 entries above.
+
+**write ↔ schreiben** *(B1, verb)*
+Latin-loan cognate via *scribere*; both languages preserve the *-ei-* vs *-i-* visible kinship.
+*Sie schreibt jeden Tag in ihr Tagebuch.*
+
+**field ↔ das Feld** *(B1)*
+*Im Frühling sind die Felder grün.*
+
+**bush ↔ der Busch** *(B1)*
+*Sch-* in German maps to *sh-* in English.
+*Der Busch blüht im Sommer.*
+
+**grass ↔ das Gras** *(B1)*
+*Das Gras ist heute Morgen noch nass.*
+
+**full ↔ voll** *(B1, adjective)*
+V pronounced /f/, so *voll* sounds like "foll." English *full* with short *u* maps cleanly.
+*Das Glas ist schon voll.*
+
+**green ↔ grün** *(B1, color)*
+*Die Ampel ist grün.*
+
+**red ↔ rot** *(B1, color)*
+Final *-d* → *-t* devoicing, also d→t pattern.
+*Sie trägt ein rotes Kleid.*
+
+**blue ↔ blau** *(B1, color)*
+*Der Himmel ist heute strahlend blau.*
+
+**young ↔ jung** — already in A1.
+
+**clean ↔ rein** *(B1, adjective)*
+Cognate via Proto-Germanic *hrainjaz*.
+*Die Wäsche ist wieder rein.*
+
+**empty ↔ leer** *(B1, adjective)*
+Cognate via Proto-Germanic with English archaic *lere* (taught, as in "unlore" = untaught / empty). The semantic link is obscure today.
+*Die Flasche ist schon leer.*
+
 ## Note
 
 This file overlaps with several other files (shift files mainly). When a word fits a clean shift rule, the primary entry is in the shift file; we cross-reference back here. The intent of this file is to be the catch-all for "you can see the kinship" cases that don't have a named rule — plus words where the kinship is so visible that listing them here earns its keep even if they also fit a shift rule.

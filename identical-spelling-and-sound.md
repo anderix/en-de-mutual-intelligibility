@@ -170,6 +170,48 @@ Spelled identically; German adds a pronounced *-e* at the end.
 **Workshop ↔ der Workshop** *(A2)*
 *Der Workshop am Wochenende war super.*
 
+### B1 additions — further international loans
+
+**Bar ↔ die Bar** *(B1, drinking establishment)*
+*Wir treffen uns um neun in der Bar.*
+
+**Detail ↔ das Detail** *(B1)*
+*Das Detail auf diesem Foto ist wichtig.*
+
+**Image ↔ das Image** *(B1, reputation sense)*
+*Die Firma hat ein gutes Image.*
+
+**Minute ↔ die Minute** *(B1)*
+*Die Sendung dauert sechzig Minuten.*
+
+**OK / okay ↔ okay / o.k.** *(B1)*
+*Ist das okay für dich?*
+
+**Panik ↔ die Panik** *(B1, close but not quite identical — German drops the *c*)*
+*Keine Panik — wir haben noch Zeit.*
+
+**Profi ↔ der Profi** *(B1, clipped form of Profession / professional)*
+*Er ist Profi in seinem Job.*
+
+**Respekt ↔ der Respekt** *(B1, German uses *k* where English keeps *c*)*
+*Ich habe großen Respekt vor seiner Arbeit.*
+
+**Stopp / stop ↔ der Stopp / stopp** *(B1)*
+German doubles the *p* as a noun, single *p* as an interjection.
+*Der Bus hat einen Stopp eingelegt.*
+
+**Super ↔ super** *(B1, informal adjective)*
+*Der Film war echt super.*
+
+**Symbol ↔ das Symbol** *(B1)*
+*Dieses Zeichen ist ein Symbol für Frieden.*
+
+**System ↔ das System** *(B1)*
+*Das System funktioniert nicht richtig.*
+
+**Talent ↔ das Talent** *(B1)*
+*Du hast wirklich viel Talent.*
+
 ### Greetings and discourse markers
 
 **hallo ↔ hallo** *(A1)*

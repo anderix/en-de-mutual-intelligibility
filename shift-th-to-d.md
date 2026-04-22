@@ -57,6 +57,22 @@ Note: V is pronounced /f/, so *Vater* sounds like "FAH-ter." See pronunciation n
 **thin ↔ dünn** *(A2, adjective)*
 *Dieses Buch ist sehr dünn — nur fünfzig Seiten.*
 
+### B1 additions
+
+**three ↔ drei** *(B1, number)*
+*Ich habe drei Geschwister.*
+
+**thousand ↔ tausend** *(B1, number)*
+Also shows the *au/ou* correspondence on the vowel.
+*Der Laptop kostet fast tausend Euro.*
+
+**roof ↔ das Dach** *(B1)*
+Cognate with English *thatch* (same root), though German *Dach* generalized to any roof while English *thatch* narrowed to straw/reed roofs.
+*Das Dach muss bald repariert werden.*
+
+**thunder ↔ der Donner** *(B1)*
+*Nach dem Blitz hört man den Donner.*
+
 ## Pairs to expect at higher levels
 
-*three → drei*, *thousand → tausend*, *thatch → Dach* (roof, semantic shift), *thunder → Donner*. The pattern keeps paying out all the way through C2.
+*thick* already covered at A2, *thin* already at A2. Additional candidates at B2+: *thirst* already in A1, *third → dritt-*, *thaw → tauen*, *thief → Dieb*, *though → doch*.
