@@ -334,6 +334,104 @@ Also means medical prescription.
 **university ↔ die Universität** *(A2, Latin -ität / -ity pattern)*
 *Er studiert an der Universität Heidelberg.*
 
+### B1 additions — the scholarly layer opens up
+
+**democracy ↔ die Demokratie** *(B1)*
+*Die Demokratie lebt von der Beteiligung der Bürger.*
+
+**document ↔ das Dokument** *(B1)*
+*Kannst du mir das Dokument per E-Mail schicken?*
+
+**energy ↔ die Energie** *(B1)*
+*Erneuerbare Energie ist wichtig für die Zukunft.*
+
+**experiment ↔ das Experiment** *(B1)*
+*Das Experiment im Labor war erfolgreich.*
+
+**figure ↔ die Figur** *(B1)*
+Both the numeric sense and the character/shape sense.
+*Die Hauptfigur im Roman ist sehr interessant.*
+
+**function ↔ die Funktion** *(B1)*
+*Diese Funktion verstehe ich noch nicht.*
+
+**industry ↔ die Industrie** *(B1)*
+*Die deutsche Industrie ist weltweit bekannt.*
+
+**chapter ↔ das Kapitel** *(B1)*
+*Das letzte Kapitel war besonders spannend.*
+
+**climate ↔ das Klima** *(B1)*
+*Das Klima in dieser Region ist mild.*
+
+**conference ↔ die Konferenz** *(B1)*
+*Die Konferenz dauert drei Tage.*
+
+**conflict ↔ der Konflikt** *(B1)*
+*Zwischen den Kollegen gibt es einen Konflikt.*
+
+**concept ↔ das Konzept** *(B1)*
+*Ich verstehe das Konzept jetzt besser.*
+
+**copy ↔ die Kopie** *(B1)*
+*Ich brauche eine Kopie des Vertrags.*
+
+**crisis ↔ die Krise** *(B1)*
+*Wir hoffen, dass die Krise bald vorbei ist.*
+
+**literature ↔ die Literatur** *(B1)*
+*Sie interessiert sich für deutsche Literatur.*
+
+**method ↔ die Methode** *(B1)*
+*Diese Methode funktioniert gut.*
+
+**minister ↔ der Minister** *(B1)*
+*Der Minister gibt heute eine Pressekonferenz.*
+
+**monitor ↔ der Monitor** *(B1)*
+*Mein Monitor ist zu klein.*
+
+**object ↔ das Objekt** *(B1)*
+*Dieses Objekt ist aus Metall.*
+
+**politics ↔ die Politik** *(B1)*
+*Politik interessiert mich wenig.*
+
+**president ↔ der Präsident** *(B1)*
+*Der Präsident hält eine Rede.*
+
+**product ↔ das Produkt** *(B1)*
+*Unsere Produkte haben eine hohe Qualität.*
+
+**percent ↔ das Prozent** *(B1)*
+*Nur zehn Prozent der Teilnehmer kamen pünktlich.*
+
+**process ↔ der Prozess** *(B1, also legal "trial")*
+*Der Prozess dauerte mehrere Wochen.*
+
+**risk ↔ das Risiko** *(B1)*
+*Jeder Job hat ein gewisses Risiko.*
+
+**theater ↔ das Theater** *(B1)*
+*Ich gehe gern ins Theater.*
+
+**theory ↔ die Theorie** *(B1)*
+*Diese Theorie ist umstritten.*
+
+**transport ↔ der Transport** *(B1)*
+*Der Transport der Möbel kostet extra.*
+
+**type ↔ der Typ** *(B1)*
+Informal also for "guy" (colloquial).
+*Welcher Typ von Kaffee ist das?*
+
+**video ↔ das Video** *(B1)*
+*Das Video hat schon eine Million Aufrufe.*
+
+**center ↔ das Zentrum** *(B1)*
+Latin nominative preserved; spelling close to English *center*.
+*Im Zentrum der Stadt gibt es viele Geschäfte.*
+
 ## Pairs to expect at higher levels
 
 A1 already gives ~60 entries. A2 will roughly double this. B1 explodes it. The major categories at higher levels:

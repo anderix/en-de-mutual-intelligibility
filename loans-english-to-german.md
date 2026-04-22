@@ -162,6 +162,76 @@ German doubles the *p* and drops the article-free use English sometimes has.
 **workshop ↔ der Workshop** *(A2)*
 *Der Workshop hat mir viel gebracht.*
 
+### B1 additions — the Denglisch surge
+
+**browser ↔ der Browser** *(B1)*
+*Welchen Browser benutzt du?*
+
+**design ↔ das Design** *(B1)*
+*Das Design des neuen Autos gefällt mir.*
+
+**download ↔ der Download / downloaden** *(B1, noun and verb)*
+As a verb, separable in casual use: *ich lade herunter* or *ich downloade*. Past participle often *gedownloadet*.
+*Der Download ist fast fertig.*
+
+**event ↔ das Event** *(B1)*
+German also has *die Veranstaltung* for the same concept; *Event* is more casual and commercial.
+*Das Event findet am Samstag statt.*
+
+**feedback ↔ das Feedback** *(B1)*
+*Danke für dein ehrliches Feedback.*
+
+**fitness ↔ die Fitness** *(B1)*
+*Ich gehe zweimal pro Woche ins Fitnessstudio.*
+
+**lifestyle ↔ der Lifestyle** *(B1)*
+*Ihr Lifestyle ist sehr gesund.*
+
+**manager ↔ der Manager** *(B1)*
+*Der Manager ist heute nicht im Büro.*
+
+**marketing ↔ das Marketing** *(B1)*
+*Unser Marketing läuft über soziale Medien.*
+
+**meeting ↔ das Meeting** *(B1)*
+German also uses *die Besprechung* and *die Sitzung*.
+*Das Meeting dauert eine Stunde.*
+
+**office ↔ das Office** *(B1, mostly in compounds like *Home Office*)*
+The everyday word for office is *das Büro*; *Office* appears mostly in business contexts and compounds.
+*Das Office ist heute leer.*
+
+**podcast ↔ der Podcast** *(B1)*
+*Ich höre gern Podcasts auf dem Weg zur Arbeit.*
+
+**recycling ↔ das Recycling** *(B1)*
+*Recycling ist für die Umwelt wichtig.*
+
+**show ↔ die Show** *(B1)*
+Not to be confused with *die Schau*, which is the native German word for "show."
+*Die Show beginnt um zwanzig Uhr.*
+
+**shop ↔ der Shop** *(B1)*
+German *der Laden* or *das Geschäft* are everyday alternatives.
+*Im Shop gibt es heute Rabatt.*
+
+**smartphone ↔ das Smartphone** *(B1)*
+Along with *das Handy* (see warning-pseudo-anglicisms.md), *Smartphone* is the modern technical term.
+*Mein neues Smartphone hat eine gute Kamera.*
+
+**software ↔ die Software** *(B1)*
+*Die Software ist veraltet.*
+
+**standard ↔ der Standard** *(B1)*
+*Das ist heute der neue Standard.*
+
+**trend ↔ der Trend** *(B1)*
+*Dieser Trend wird nicht lange bleiben.*
+
+**website ↔ die Website** *(B1)*
+Also *die Webseite*. Both are used.
+*Die Website ist momentan nicht erreichbar.*
+
 ## Pairs to expect at higher levels
 
 The Denglisch flood at A2 and above:
