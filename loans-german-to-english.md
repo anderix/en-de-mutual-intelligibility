@@ -34,6 +34,16 @@ Used in English to mean strictly forbidden, with a humorous or stern tone.
 The German verb *wandern* (to hike) gives the English noun *wanderlust* (the desire to travel).
 *Am Sonntag wandern wir in den Bergen.*
 
+### A2 additions
+
+**Gesundheit ↔ die Gesundheit** *(A2)*
+Used in English as the interjection said after someone sneezes (equivalent to "bless you"). German *Gesundheit* is simply the noun "health."
+*Zum Glück ist meine Gesundheit wieder in Ordnung.*
+
+**Angst ↔ die Angst** *(A2)*
+Entered English as a loan meaning existential anxiety or dread. German *Angst* just means "fear."
+*Ich habe Angst vor großen Hunden.*
+
 ## Pairs to expect at higher levels
 
 The export list grows with abstract and culinary vocabulary:

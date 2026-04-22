@@ -49,6 +49,29 @@ Nahuatl *tomatl* → Spanish *tomate* → both languages.
 **Oma, Opa ↔ die Oma, der Opa** *(A1)*
 Less clearly traced. Both languages use these as informal grandma/grandpa terms; English borrowed *opa* in some communities. The diminutive pattern is Romance-influenced but the words themselves are partly nursery-language.
 
+### A2 additions
+
+### From Italian (beyond Latin scholarly)
+
+**pizza ↔ die Pizza** *(A2)*
+Direct Italian loan in both languages.
+*Eine Pizza mit viel Käse, bitte.*
+
+**account ↔ das Konto** *(A2, Italian via Latin)*
+From Italian *conto*.
+*Ich zahle das Geld auf mein Konto ein.*
+
+### From Hindi/Urdu via English
+
+**jeans ↔ die Jeans** *(A2)*
+Originally Genoa (Italian *Genova*) via French *jean* → eventually standardized through American English.
+
+### Modern tech and commerce (travelled via English, but often with mixed roots)
+
+**Tablet / tablet** — in loans-english-to-german.md
+**Laptop / laptop** — in loans-english-to-german.md
+**Quiz / Quiz** — in loans-english-to-german.md
+
 ## Pairs to expect at higher levels
 
 The international loan layer expands rapidly above A1:

@@ -256,8 +256,65 @@ Cognate with *great*; modern English semantic split.
 **weather ↔ das Wetter** *(A1)* — also in shift-th-to-d
 *Gestern hatten wir schlechtes Wetter.*
 
+### A2 additions
+
+**build ↔ bauen** *(A2, verb)*
+*Wir bauen ein neues Haus am Stadtrand.*
+
+**think ↔ denken** *(A2, verb)*
+The *-nk-* cluster is preserved in both languages.
+*Ich denke, du hast recht.*
+
+**feel ↔ fühlen** *(A2, verb)*
+*Wie fühlst du dich heute?*
+
+**mean ↔ meinen** *(A2, verb)*
+The noun *die Meinung* (opinion) appears in suffix-ung.md.
+*Was meinst du mit dieser Frage?*
+
+**try / seek ↔ versuchen** *(A2, verb)*
+*ver-* prefix added to *suchen* (see shift-k-to-ch.md for *suchen / seek*).
+*Ich versuche es morgen noch einmal.*
+
+**lose ↔ verlieren** *(A2, verb)*
+Cognate via Proto-Germanic; related to English "forlorn" (the past participle *verloren* is visible in that pair).
+*Ich habe meine Schlüssel verloren.*
+
+**wait ↔ warten** *(A2, verb)*
+Cognate with English "ward" and "watch" (same Proto-Germanic root *wardōn-*, "to watch over").
+*Warte bitte einen Moment auf mich.*
+
+**neck / throat ↔ der Hals** *(A2)*
+Cognate with archaic English *halse*. Modern English replaced it with *neck*.
+*Mir tut der Hals weh.*
+
+**forest / woods ↔ der Wald** *(A2)*
+Cognate with English *wold* and *weald* (both archaic, preserved in place names like *the Weald*).
+*Im Herbst gehe ich gern im Wald spazieren.*
+
+**cat ↔ die Katze** *(A2)*
+Both from Late Latin *catta*, which both languages absorbed early enough that they feel native.
+*Unsere Katze schläft fast den ganzen Tag.*
+
+**hard ↔ hart** *(A2, adjective)* — also fits shift-d-to-t
+Final *d* devoices to *t*. Placed here because the kinship is immediate even without the shift rule.
+*Dieses Brot ist schon sehr hart.*
+
+**cold ↔ kalt** *(A2, adjective)* — also fits shift-d-to-t
+*Heute Morgen ist es sehr kalt.*
+
+**shall ↔ sollen** — already in A1 entries above.
+
+**carry / wear ↔ tragen** *(A2, verb)*
+Cognate with English *drag* (d → t shift initially). Semantic split: German kept "carry" and added "wear"; English kept "drag" for pulling and developed "carry" and "wear" separately.
+*Er trägt heute einen schwarzen Anzug.*
+
+**meet ↔ treffen** *(A2, verb)*
+Cognate via Proto-Germanic; English "meet" and German "treffen" share a root meaning "to come upon."
+*Wir treffen uns heute Abend im Café.*
+
 ## Note
 
-This file overlaps with several other files (shift files mainly). When a word fits a clean shift rule, the primary entry is in the shift file; we cross-reference back here. The intent of this file is to be the catch-all for "you can see the kinship" cases that don't have a named rule.
+This file overlaps with several other files (shift files mainly). When a word fits a clean shift rule, the primary entry is in the shift file; we cross-reference back here. The intent of this file is to be the catch-all for "you can see the kinship" cases that don't have a named rule — plus words where the kinship is so visible that listing them here earns its keep even if they also fit a shift rule.
 
 This is also the file that proves the deepest principle: English and German share so much basic vocabulary that any English speaker, given a one-page primer on a few sound shifts and a few hundred everyday words, has *thousands* of effective German recognitions available.

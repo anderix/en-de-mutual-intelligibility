@@ -204,6 +204,136 @@ False friend warning: *Prospekt* in German means brochure or pamphlet, not "pote
 **congratulate ↔ gratulieren** *(A1)*
 *Ich gratuliere dir zum Geburtstag!*
 
+### A2 additions
+
+**pharmacy / apothecary ↔ die Apotheke** *(A2, Greek via Latin)*
+The English cognate "apothecary" is archaic; modern English uses "pharmacy."
+*Die Apotheke öffnet um neun Uhr.*
+
+**apparatus / device ↔ der Apparat** *(A2, Latin)*
+*Dieser Apparat ist kaputt.*
+
+**article ↔ der Artikel** *(A2, Latin)*
+Two senses: grammatical article (*der, die, das*) and news article.
+*Ich habe einen interessanten Artikel gelesen.*
+
+**library ↔ die Bibliothek** *(A2, Greek)*
+English "library" comes from Latin *liber* (book); both languages share *Bibliothek / bibliothèque / biblioteca* across Greek-rooted forms.
+*In der Bibliothek ist es sehr ruhig.*
+
+**cafeteria ↔ die Cafeteria** *(A2)*
+*In der Cafeteria gibt es günstiges Essen.*
+
+**discussion ↔ die Diskussion** *(A2)*
+*Die Diskussion war sehr interessant.*
+
+**discuss ↔ diskutieren** *(A2, verb)*
+*Wir diskutieren oft über Politik.*
+
+**festival ↔ das Festival** *(A2)*
+*Das Musikfestival findet im Sommer statt.*
+
+**ground floor ↔ das Erdgeschoss** *(A2, compound — Erd "earth" + Geschoss "floor")*
+Not a loan, but listed here because *Geschoss* often parallels English "storey/floor" in shared architectural vocabulary.
+*Wir wohnen im Erdgeschoss.*
+
+**hour (clock) ↔ die Uhr** *(A2, via Latin hora)*
+Both from Latin *hora*; English "hour" kept the broader meaning, German *Uhr* narrowed to "clock/o'clock."
+*Es ist jetzt genau drei Uhr.*
+
+**instrument ↔ das Instrument** *(A2)*
+*Welches Instrument spielst du?*
+
+**intelligent ↔ intelligent** *(A2, adjective)*
+*Sie ist eine sehr intelligente Schülerin.*
+
+**interesting ↔ interessant** *(A2, adjective)*
+Slight spelling difference: German doubles the *s*.
+*Das Buch ist wirklich interessant.*
+
+**interest (noun) ↔ das Interesse** *(A2)*
+*Ich habe kein Interesse an Fußball.*
+
+**calendar ↔ der Kalender** *(A2, Latin)*
+*Schreib den Termin bitte in deinen Kalender.*
+
+**camera ↔ die Kamera** *(A2, Latin)*
+*Mit meiner neuen Kamera mache ich schöne Fotos.*
+
+**contact ↔ der Kontakt** *(A2, Latin)*
+*Wir haben seit Jahren keinen Kontakt mehr.*
+
+**concert ↔ das Konzert** *(A2)*
+*Das Konzert beginnt um acht Uhr.*
+
+**credit ↔ der Kredit** *(A2, Latin)*
+Also in *Kreditkarte / credit card*.
+*Ich brauche einen Kredit für das neue Auto.*
+
+**culture ↔ die Kultur** *(A2, Latin)*
+*Ich interessiere mich sehr für Kultur.*
+
+**medicine (drug) ↔ das Medikament** *(A2)*
+*Dieses Medikament hilft gegen Kopfschmerzen.*
+
+**motor / engine ↔ der Motor** *(A2, Latin)*
+*Der Motor ist heute kaputt gegangen.*
+
+**museum ↔ das Museum** *(A2, Latin)*
+*Am Sonntag besuchen wir das Museum.*
+
+**nature ↔ die Natur** *(A2, Latin)*
+*In der Natur kann ich mich gut erholen.*
+
+**note (grade / music) ↔ die Note** *(A2, Latin)*
+*Mein Sohn hat gute Noten in der Schule.*
+
+**orange ↔ die Orange** *(A2)*
+Also the fruit and the color.
+*Eine Orange zum Nachtisch, bitte.*
+
+**organize ↔ organisieren** *(A2, verb)*
+*Wer organisiert das Fest?*
+
+**parfum ↔ das Parfüm** *(A2, French via Latin)*
+*Dieses Parfüm riecht wunderbar.*
+
+**person ↔ die Person** *(A2, Latin)*
+*Diese Person kenne ich nicht.*
+
+**practice (internship) ↔ das Praktikum** *(A2, Latin nominative preserved)*
+Different meaning from English "practicum"; German *Praktikum* is specifically an internship.
+*Im Sommer mache ich ein Praktikum in einer Bank.*
+
+**program ↔ das Programm** *(A2, Greek)*
+*Das Programm im Fernsehen ist heute langweilig.*
+
+**project ↔ das Projekt** *(A2, Latin)*
+*Unser Projekt ist fast fertig.*
+
+**quality ↔ die Qualität** *(A2, Latin, via -tät suffix = English -ity)*
+This is the first entry in a huge pattern: German *-ität* = English *-ity*.
+*Die Qualität dieses Produkts ist ausgezeichnet.*
+
+**quiz ↔ das Quiz** *(A2, English via Latin)*
+*Das Quiz am Ende des Kurses war schwierig.*
+
+**recipe ↔ das Rezept** *(A2, Latin)*
+Also means medical prescription.
+*Das Rezept für diesen Kuchen ist einfach.*
+
+**technique / technology ↔ die Technik** *(A2, Greek)*
+*Die moderne Technik macht vieles einfacher.*
+
+**total / completely ↔ total** *(A2)*
+*Ich bin total müde.*
+
+**tourist ↔ der Tourist / die Touristin** *(A2)*
+*Viele Touristen besuchen diese Stadt.*
+
+**university ↔ die Universität** *(A2, Latin -ität / -ity pattern)*
+*Er studiert an der Universität Heidelberg.*
+
 ## Pairs to expect at higher levels
 
 A1 already gives ~60 entries. A2 will roughly double this. B1 explodes it. The major categories at higher levels:

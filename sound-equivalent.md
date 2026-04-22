@@ -25,6 +25,10 @@ The simple noun is in A1 in compounds (am Meer, am See). German *See* (feminine)
 Both have the /aɪ/ diphthong, though German *Auge* extends with a final schwa: "OW-guh" vs English "eye" /aɪ/. Less perfect than the *Haus/house* match but the diphthong correspondence is what makes it recognizable.
 *Sie hat blaue Augen wie ihre Mutter.*
 
+**ice ↔ das Eis** *(A2)*
+Both pronounced /aɪs/. German *Eis* also means "ice cream" in everyday usage.
+*Im Sommer esse ich gern ein Eis.*
+
 ## Pairs to expect at higher levels
 
 *ice → Eis* (both /aɪs/), *house → Haus* and *mouse → Maus* extend a pattern, *south → Süd* (less close), *cow → Kuh* (close in vowel).

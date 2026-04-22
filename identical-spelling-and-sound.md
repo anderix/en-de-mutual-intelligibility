@@ -101,6 +101,75 @@ Note: spelled identically, pronounced differently. German pronounces the final *
 **Wind ↔ der Wind** *(A1)*
 *Heute weht ein starker Wind.*
 
+### Additional international entries (A2)
+
+**Ball ↔ der Ball** *(A2)*
+*Die Kinder spielen mit dem Ball im Garten.*
+
+**Band ↔ die Band** *(A2, for a music group)*
+*Die Band spielt heute Abend im Club.*
+
+**Blog ↔ der / das Blog** *(A2)*
+*Ich schreibe einen Blog über meine Reisen.*
+
+**Comic ↔ der / das Comic** *(A2)*
+*Mein Sohn liest am liebsten Comics.*
+
+**Fan ↔ der Fan** *(A2)*
+*Er ist ein großer Fan seiner Lieblingsband.*
+
+**Hamburger ↔ der Hamburger** *(A2)*
+*Einen Hamburger ohne Salat, bitte.*
+
+**Interview ↔ das Interview** *(A2)*
+*Das Interview mit dem Sänger war interessant.*
+
+**modern ↔ modern** *(A2, adjective)*
+*Die Möbel sind sehr modern.*
+
+**normal ↔ normal** *(A2, adjective)*
+*Das ist doch ganz normal.*
+
+**online ↔ online** *(A2)*
+*Du kannst das Ticket auch online buchen.*
+
+**Pizza ↔ die Pizza** *(A2)*
+*Heute Abend gibt es Pizza.*
+
+**Poster ↔ das Poster** *(A2)*
+*An meiner Wand hängt ein Poster von Paris.*
+
+**Radio ↔ das Radio** *(A2)*
+*Im Auto höre ich gern Radio.*
+
+**Ring ↔ der Ring** *(A2)*
+*Sie trägt einen schönen Ring am Finger.*
+
+**Rose ↔ die Rose** *(A2)*
+Spelled identically; German adds a pronounced *-e* at the end.
+*Zum Geburtstag schenke ich ihr rote Rosen.*
+
+**Service ↔ der Service** *(A2)*
+*Der Service im Hotel ist ausgezeichnet.*
+
+**Star ↔ der Star** *(A2, for a celebrity)*
+*Diese Schauspielerin ist ein großer Star.*
+
+**Team ↔ das Team** *(A2)*
+*Unser Team ist sehr erfolgreich.*
+
+**Tennis ↔ Tennis** *(A2)*
+*Ich spiele jeden Samstag Tennis.*
+
+**Training ↔ das Training** *(A2)*
+*Das Training beginnt um sechs Uhr.*
+
+**warm ↔ warm** *(A2, adjective)*
+*Heute ist es sehr warm draußen.*
+
+**Workshop ↔ der Workshop** *(A2)*
+*Der Workshop am Wochenende war super.*
+
 ### Greetings and discourse markers
 
 **hallo ↔ hallo** *(A1)*

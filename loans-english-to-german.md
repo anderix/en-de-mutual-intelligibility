@@ -60,6 +60,108 @@ Plural: *die Hobbys* (German typically uses -s for English loans, not -ies).
 Note: German also has *die Fahrkarte* and *die Eintrittskarte* for transit and admission tickets respectively. *Ticket* is more general/casual.
 *Mein Ticket für das Konzert ist verschwunden.*
 
+### A2 additions
+
+**babysitter ↔ der Babysitter** *(A2)*
+Also in suffix-er.md as an agent noun.
+*Unser Babysitter kommt am Freitagabend.*
+
+**band (music) ↔ die Band** *(A2)*
+*Meine Lieblingsband spielt nächsten Monat in Berlin.*
+
+**basketball ↔ der Basketball** *(A2)*
+*Sie spielt seit vielen Jahren Basketball.*
+
+**blog ↔ der / das Blog** *(A2)*
+Both articles are accepted in German; usage is split.
+*Ich lese jeden Morgen einen Blog über Technik.*
+
+**chat (verb) ↔ chatten** *(A2, verb)*
+Conjugates fully as a German verb: *ich chatte, du chattest, er chattet*. Past participle: *gechattet*.
+*Ich chatte abends oft mit meiner Cousine.*
+
+**club ↔ der Club / Klub** *(A2)*
+Both spellings are used, though *Club* is more common.
+*Der Tennisclub hat dreihundert Mitglieder.*
+
+**comic ↔ der / das Comic** *(A2)*
+*Mein Sohn sammelt alte Comics.*
+
+**e-book ↔ das E-Book** *(A2)*
+*Ich lese lieber E-Books als gedruckte Bücher.*
+
+**fan ↔ der Fan** *(A2)*
+*Die Fans warten vor dem Stadion.*
+
+**fit (adjective) ↔ fit** *(A2)*
+Used as a stative adjective in German: *fit sein* (to be fit).
+*Nach dem Urlaub fühle ich mich wieder fit.*
+
+**hamburger ↔ der Hamburger** *(A2)*
+Originally from the city of Hamburg, came back to German via American English.
+*Ich esse selten einen Hamburger.*
+
+**homepage ↔ die Homepage** *(A2)*
+*Auf unserer Homepage findest du alle Informationen.*
+
+**jeans ↔ die Jeans** *(A2, always plural)*
+*Ich trage fast nur Jeans.*
+
+**laptop ↔ der / das Laptop** *(A2)*
+Both articles are accepted.
+*Mein Laptop ist noch ziemlich neu.*
+
+**link ↔ der Link** *(A2)*
+*Ich schicke dir den Link per E-Mail.*
+
+**mailbox ↔ die Mailbox** *(A2)*
+In German often refers to voicemail specifically.
+*Du kannst mir auf die Mailbox sprechen.*
+
+**online ↔ online** *(A2)*
+*Ich bin jetzt online, wenn du mich erreichen willst.*
+
+**quiz ↔ das Quiz** *(A2)*
+Also in loans-latin-greek-shared.md.
+*Das Quiz im Fernsehen ist meine Lieblingssendung.*
+
+**star ↔ der Star** *(A2, celebrity)*
+Not to be confused with *der Star* (starling, the bird). Context disambiguates.
+*Dieser Sänger ist ein internationaler Star.*
+
+**surf (verb) ↔ surfen** *(A2, verb)*
+Both "surf the web" and physical surfing.
+*Ich surfe gern im Internet.*
+
+**tablet ↔ das Tablet** *(A2)*
+The computer device, not the medication (*die Tablette*).
+*Mein neues Tablet ist sehr leicht.*
+
+**team ↔ das Team** *(A2)*
+*In meinem Team arbeiten sieben Leute.*
+
+**tennis ↔ das Tennis** *(A2)*
+*Spielst du auch Tennis?*
+
+**tip (advice) ↔ der Tipp** *(A2)*
+German doubles the *p* and drops the article-free use English sometimes has.
+*Vielen Dank für den guten Tipp.*
+
+**tour ↔ die Tour** *(A2)*
+*Die Stadttour dauert zwei Stunden.*
+
+**training ↔ das Training** *(A2)*
+*Das Training ist dienstags und donnerstags.*
+
+**T-shirt ↔ das T-Shirt** *(A2)*
+*Ich brauche noch ein weißes T-Shirt.*
+
+**volleyball ↔ der Volleyball** *(A2)*
+*Am Strand spielen wir Volleyball.*
+
+**workshop ↔ der Workshop** *(A2)*
+*Der Workshop hat mir viel gebracht.*
+
 ## Pairs to expect at higher levels
 
 The Denglisch flood at A2 and above:
