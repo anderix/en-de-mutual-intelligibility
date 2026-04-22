@@ -15,7 +15,7 @@ When both languages borrowed the same Latin or Greek word, a handful of predicta
 - **English *ct* → German *kt***: contact/*Kontakt*, product/*Produkt*, aspect/*Aspekt*, project/*Projekt*, object/*Objekt*, effect/*Effekt*, direct/*direkt*, perfect/*perfekt*.
 - **English Latin-root verbs (*-ate*, *-ize*, bare forms) → German *-ieren* verbs**: to organize → *organisieren*, to tolerate → *tolerieren*, to study → *studieren*, to serve → *servieren*, to analyze → *analysieren*, to react → *reagieren*.
 
-These are observations. They work across CEFR levels: at A1 you already meet *studieren, reparieren, Kultur, Natur*; at B1 you meet *Differenz, Konferenz, präsentieren, produzieren, Architektur, Theorie*. The transformations stay consistent the whole way.
+These are observations. They work across CEFR levels: at A1 and A2 you already meet *studieren, reparieren, Kultur, Natur*; at B1 you meet *Differenz, Konferenz, präsentieren, produzieren, Architektur, Theorie*. The transformations stay consistent the whole way.
 
 ## Pairs
 
